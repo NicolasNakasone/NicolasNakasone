@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mi:
 
-Hola! Mi nombre es Nicolás y soy desarrollador Front-End. Apasionado, pragmático y creativo. Autodidacta, y con muchas ganas de aprender para ofrecer mejores e innovadoras soluciones. Me gusta mucho el trabajo en equipo. Querés saber mas sobre mi?
+Hola! Mi nombre es Nicolás y soy desarrollador Front-End. Apasionado, pragmático y creativo. Autodidacta, y con muchas ganas de aprender para ofrecer mejores e innovadoras soluciones. Me gusta mucho el trabajo en equipo.
 
 Empecé a interiorizarme en el camino de la programación en el 2018, comenzando por estructuras de control y lógica de programación, para luego aprender las bases del lenguaje C.
 
