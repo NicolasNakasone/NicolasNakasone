@@ -1,5 +1,3 @@
-### Hola! Soy Nicolas Nakasone, encantado de conocerte 👋
-
 <!--
 **NicolasNakasone/NicolasNakasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,7 @@ Here are some ideas to get you started:
 ![Nicolas Nakasone](https://i.ibb.co/Q8v7zbF/1624811591500.jpg/)
 <!-- [![Nicolas Nakasone](https://i.ibb.co/Q8v7zbF/1624811591500.jpg/)](https://i.ibb.co/Q8v7zbF/1624811591500.jpg) -->
 <!-- ![Esta es una imagen de ejemplo](https://www.linkedin.com/in/nicolasnakasone/detail/background-image/) -->
+
+# Hola! Soy Nicolas Nakasone, encantado de conocerte 👋
+
+## Acerca de mi:
