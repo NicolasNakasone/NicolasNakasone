@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- [![Nicolas Nakasone](https://i.ibb.co/Q8v7zbF/1624811591500.jpg/)](https://i.ibb.co/Q8v7zbF/1624811591500.jpg) -->
 <!-- ![Esta es una imagen de ejemplo](https://www.linkedin.com/in/nicolasnakasone/detail/background-image/) -->
 
-# Hola! Soy Nicolas Nakasone, encantado de conocerte 👋:smiley:
+# Hola! Mi nombre es Nicolas Nakasone, encantado de conocerte 👋:smiley:
 
 ## Acerca de mi :grinning::
 
