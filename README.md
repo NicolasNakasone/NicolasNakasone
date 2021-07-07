@@ -56,7 +56,7 @@ Con ganas de aprender y profundizar mas en :relieved::
 
 ## Puedes mirar mi curriculum:
 
-![NicolasNakasone](https://i.ibb.co/FnwLBrm/Nicolas-Nakasone-CV-Front-End.png)
+![NicolasNakasone](https://i.ibb.co/JcDHmZV/Nicolas-Nakasone-CV-Front-End.png)
 
 ## O puedes contactarme:
 - Gmail:  [nicolasnakasone70@gmail.com](mailto:nicolasnakasone70@gmail.com)
