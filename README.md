@@ -59,7 +59,7 @@ Con ganas de aprender y profundizar mas en :relieved::
 
 ## Puedes mirar mi curriculum:
 
-![NicolasNakasone](https://i.ibb.co/c37DPH6/Nicolas-Nakasone-CV-Frontend-Developer.png)
+
 
 ## O puedes contactarme:
 - Gmail:  [nicolasnakasone70@gmail.com](mailto:nicolasnakasone70@gmail.com)
