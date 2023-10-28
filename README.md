@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mi :grinning::
 
-Soy desarrollador Front-End :boy::computer:⚛️. Apasionado, pragmático y creativo. Autodidacta, y con muchas ganas de aprender para ofrecer mejores e innovadoras soluciones. Me gusta mucho el trabajo en equipo :sunglasses:.
+Soy desarrollador FrontEnd :boy::computer:⚛️. Apasionado, pragmático y creativo. Autodidacta, y con muchas ganas de aprender para ofrecer mejores e innovadoras soluciones. Me gusta mucho el trabajo en equipo :sunglasses:.
 
 Empecé a interiorizarme en el camino de la programación en el 2018, comenzando por estructuras de control y lógica de programación, para luego aprender las bases del lenguaje C :grin:.
 
@@ -29,7 +29,11 @@ En el 2020 hice cursos de lenguajes como HTML, CSS, JS y PHP pero sentía que mi
 Actualmente tengo conocimientos en lenguajes/tecnologías como:
 - Front-End :heart_eyes:
   - JavaScript
+  - TypeScript
   - ReactJS
+  - React Native
+  - MaterialUI
+  - TailwindCSS
   - Redux
   - Sass
   - Less
@@ -46,7 +50,6 @@ Actualmente tengo conocimientos en lenguajes/tecnologías como:
 
 Con ganas de aprender y profundizar mas en :relieved::
 - Vue
-- TypeScript
 - GraphQL
 - MongoDB
 - PHP
